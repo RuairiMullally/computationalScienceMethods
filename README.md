@@ -1,2 +1,1 @@
-# computationalScienceMethods
-University Y2 Matlab computational science projects.
+# University Y2 Matlab computational science projects.
